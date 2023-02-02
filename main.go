@@ -10,5 +10,9 @@ func main() {
 
 	age = 20
 
-	fmt.Println(age)
+	var name string
+
+	name = "iqbal"
+
+	fmt.Println(name, age)
 }
